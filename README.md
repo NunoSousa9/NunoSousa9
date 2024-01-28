@@ -7,7 +7,7 @@ I acquired solid skills in various technologies, including Java, JavaScript, Nod
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
 
           
-
+![Snake animation](https://github.com/NunoSousa9/NunoSousa9/blob/output/github-contribution-grid-snake.svg)
 
 Here are some projects I've done throughout this yet short programming journey...feel free to check them out :)
 
