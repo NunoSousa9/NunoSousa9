@@ -4,11 +4,6 @@ I'm José Nuno Sousa, 34y/o from Maia(Porto, Portugal) and I am a recent graduat
 
 I acquired solid skills in various technologies, including Java, JavaScript, Node.js, CSS, HTML, and SQL. I've also completed a React.js course in the same Academy. 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-
-          
-![Snake animation](https://github.com/NunoSousa9/NunoSousa9/blob/output/github-contribution-grid-snake.svg)
-
 Here are some projects I've done throughout this yet short programming journey...feel free to check them out :)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NunoSousa9&theme=blueberry)](https://git.io/streak-stats)
