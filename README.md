@@ -1,4 +1,9 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Header](./github-header-image.png) <br><br><br>
+<p align="center">
+  <a href="./github-header-image.png">
+    <img src="./github-header-image.png" alt="Header" />
+  </a>
+</p>
+<br><br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, my name is **Nuno Sousa** and I am **Junior Fullstack Developer** from Maia(Porto, Portugal). 
 
