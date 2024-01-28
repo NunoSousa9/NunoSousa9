@@ -10,13 +10,12 @@ I have acquired solid skills in various technologies, including **Java**, **Java
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NunoSousa9&theme=blueberry)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NunoSousa9&layout=compact)
-
 
 ### Here are some projects I've done throughout this yet short programming journey...feel free to check them out
 
 You can also contact me through:
 
-[![Email](https://img.shields.io/badge/Email-Click%20to%20Send%20Email-informational?style=flat&logo=gmail&logoColor=white)](mailto:nnsousa9.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nunosousa19/)
+[![Email](https://img.shields.io/badge/Email-nnsousa9@gamail.com-informational?style=flat&logo=gmail&logoColor=white)](mailto:nnsousa9.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/nunosousa19-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nunosousa19/)
 
