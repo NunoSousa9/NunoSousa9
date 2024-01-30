@@ -5,7 +5,8 @@
 </p>
 <br><br><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, my name is **Nuno Sousa** and I am **Junior Fullstack Developer** from Maia(Porto, Portugal). 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi there, my name is **Nuno Sousa** and I am **Junior Fullstack Developer** from **Maia(Porto, Portugal)**. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a **versatile problem-solver**, ready for new challenges and also an **eager learner**, **driven by passion**, and **constantly evolving**. Excited to contribute to cutting-edge projects and connect with fellow enthusiasts.
 
