@@ -33,5 +33,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-in/nunosousa19-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nunosousa19/)
 
+<br><br>
+<p align="right">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=NunoSousa9" alt="GitHub Count" />
+  </a>
+</p>
 
 
