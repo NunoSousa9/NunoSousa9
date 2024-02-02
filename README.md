@@ -35,7 +35,7 @@
 
 <br><br>
 <p align="right">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=NunoSousa9" alt="GitHub Count" 
  
 </p>
