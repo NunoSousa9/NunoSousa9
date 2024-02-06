@@ -25,7 +25,14 @@
   </a>
 </p>
 <br>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoSousa9&layout=compact&theme=graywhite" />
+  </a>
+</p>
 <br>
+
+
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get in touch:
 
