@@ -25,12 +25,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here you can find some projects I've done throughout this short yet thrilling programming journey...**feel free to check them out**<br><br>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NunoSousa9&theme=graywhite" alt="GitHub Streak" />
-  </a>
-</p>
-<br>
 
 
 
