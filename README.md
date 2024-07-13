@@ -44,5 +44,3 @@
       <img src="https://komarev.com/ghpvc/?username=NunoSousa9" alt="GitHub Count" >
         </a>
 </p>
-
-
